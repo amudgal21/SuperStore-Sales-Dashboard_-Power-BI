@@ -72,4 +72,4 @@ To create a dynamic, interactive dashboard that visualizes sales and profit data
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/amudgal21/SuperStore-Sales-Dashboard.git
+   git clone https://github.com/amudgal21/SuperStore-Sales-Dashboard_-Power-BI.git
