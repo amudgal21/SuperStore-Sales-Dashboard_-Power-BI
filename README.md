@@ -45,7 +45,7 @@ To create a dynamic, interactive dashboard that visualizes sales and profit data
   - New York: $0.19M
   - Texas: $0.12M
   - Washington: $0.09M
-- **15-Day Sales Forecast**: Shows a projected increase, with a peak of 10.6K in forecasted sales&#8203;:contentReference[oaicite:0]{index=0}.
+- **15-Day Sales Forecast**: Shows a projected increase, with a peak of 10.6K in forecasted sales.
 
 ---
 
